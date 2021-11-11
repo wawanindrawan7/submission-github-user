@@ -1,0 +1,25 @@
+<resources>
+    <!-- Other string resources-->
+    <string name="app_name">Github Users</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Avatar</string>
+    <string name="splah_screen">Splah Screen</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Username</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="following_text">Following</string>
+    <string name="follower_text">Follower</string>
+    <string name="repository_text">Repository</string>
+    <string name="favorite">Favorite</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="company">Company</string>
+    <string name="lokasi">Lokasi</string>
+
+</resources>
+
+
